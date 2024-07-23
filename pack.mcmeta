@@ -1,6 +1,7 @@
 {
   "pack": {
     "pack_format": 15,
-    "description": "§cPr§6id§eeb§2ao§9ne§5s §r| Queer³"
+    "supported_formats": [15, 9999],
+    "description": "PrideBones 1.0 §r| Joy Update!"
   }
 }
