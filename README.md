@@ -4,7 +4,7 @@
 
 > *For information about the new versioning system, see [here](https://github.com/Pridecraft-Studios/pridepack/blob/format17/VERSIONING.md).*
 
-![Modrinth Downloads](https://img.shields.io/modrinth/dt/INVALID?logo=modrinth&label=Modrinth%20downloads&color=%231bd96a&style=for-the-badge) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/pridecraft-studios/pridebones/total?style=for-the-badge&logo=github&label=Github%20Downloads) ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/pridecraft-studios/pridebones?style=for-the-badge&logo=github) 
+![Modrinth Downloads](https://img.shields.io/modrinth/dt/Lv1So7Y9?logo=modrinth&label=Modrinth%20downloads&color=%231bd96a&style=for-the-badge) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/pridecraft-studios/pridebones/total?style=for-the-badge&logo=github&label=Github%20Downloads) ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/pridecraft-studios/pridebones?style=for-the-badge&logo=github) 
 
 This is PrideBones. A Pridepack spinoff made by [Pridecraft Studios](https://git.pridecraft.gay/) based on Barebones' textures. We make Minecraft queer.
 
