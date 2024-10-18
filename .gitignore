@@ -32,8 +32,8 @@ Temporary Items
 *.xcf
 *.psd
 *.zip
-*.bbproject
-*.bbmodel
+.*bbprojects
+.*bbmodels
 .local/
 .idea/
 .vscode/
