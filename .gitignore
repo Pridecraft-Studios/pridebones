@@ -38,3 +38,7 @@ Temporary Items
 *.zip
 .bbprojects/
 .bbmodels/
+.local/
+.idea/
+.vscode/
+tmp/
