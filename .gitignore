@@ -28,13 +28,13 @@ Temporary Items
 .apdisk
 
 # other non-macos stuff
--icons/
-*.mp4
-*.raw
-*.avif
 *.pdn
 *.xcf
 *.psd
 *.zip
-.bbprojects/
-.bbmodels/
+*.bbproject
+*.bbmodel
+.local/
+.idea/
+.vscode/
+tmp/
