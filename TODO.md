@@ -9,7 +9,7 @@
 
 ## Technical
 
-- [ ] "Sync" description, Soundtracks, lang files and splashes from Pridepack
+- [X] "Sync" description, Soundtracks, lang files and splashes from Pridepack <!-- this seems to be done -->
 - [X] Overlay system from Pridepack
 
 ## Misc
