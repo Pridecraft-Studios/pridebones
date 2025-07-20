@@ -26,8 +26,9 @@ You can support the developers of Pridecraft Studios by donating on Patreon
 
 ## Who
 
-We are Pridecraft Studios, a collective of developers making LGBT content for Minecraft.
-We make Resource Packs and mods to add LGBT themed stuff to the game, while trying to not "overgay". The main difference of our stuff compared to other LGBT Minecraft packs is that we know how to keep the game from looking like someone vomited rainbows all over the place.
+Pridecraft Studios is a collective modding group that creates resource packs, tooling, and our flagship mod, Joy.
+Our team of volunteers strive to create prideful content for the diverse Minecraft community <3.
+We target both Java and Bedrock editions, hoping to create memorable experiences for you.
 
 ## Other Downloads
 
