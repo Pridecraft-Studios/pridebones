@@ -1,17 +1,30 @@
 {
   "pack": {
-    "pack_format": 13,
-    "supported_formats": [13, 9999],
-    "description": "§cPr§6id§ee b§2on§9es §52.0 §r| ...!"
+	"min_format": 15,
+    "max_format": 9999,
+    "pack_format": 15,
+    "supported_formats": [15, 9999],
+    "description": "§cPr§6id§ee b§2on§9es §512.0 §r| ...!"
   },
  "overlays": {
     "entries": [
       {
-        "formats": [
-          16,
-          9999
-        ],
+        "min_format": 16,
+        "max_format": 9999,
+        "formats": [16, 64],
         "directory": "format16"
+      },
+      {
+        "min_format": 49,
+        "max_format": 9999,
+        "formats": [49, 64],
+        "directory": "format49"
+      },
+      {
+        "min_format": 53,
+        "max_format": 9999,
+        "formats": [53, 64],
+        "directory": "format53"
       }
     ]
   }
